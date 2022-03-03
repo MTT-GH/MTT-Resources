@@ -30,10 +30,7 @@ sidebar:
 ## Course Provided Material
 - Hosted Lab VM: https://esi.learnondemand.net/ 
   > Note: activated for 6 Months 
-- Lab Instructions (no expiration)
-    - [AZ-204](aka.ms/az400labs)
-    - [AZ-400](aka.ms/az204labs)
-    - [AI-102](aka.ms/ai102labs)
+
 - [Azure Pass Susbcriptions Balance](https://www.microsoftazuresponsorships.com/balance)
   > Note: Valid for 1 month and/or 100$
 
@@ -49,7 +46,3 @@ sidebar:
 - [Renew your Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification)
 - [Renewal Process video](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
 - [Take the exam at home](https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/)
-- Exam pages:
-    - [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
-    - [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-    - [AI-102](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102)
