@@ -3,3 +3,15 @@ main:
     url: /
   - title: "Exams"
     url: /Exams/
+
+
+exams:
+- title: Exam Content
+  children:
+  - title: "AZ-204"
+    url: /exams/AZ204/
+  - title: "AZ-400"
+    url: /exams/AZ400/
+  - title: "AI-102"
+    url: /exams/AI102/
+

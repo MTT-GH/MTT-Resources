@@ -62,7 +62,9 @@ author:
     - label: "Microsoft Trainer Community"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/MicrosoftTrainerCommunityChannel"
-
+    - label: "Report Website Issue"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ESI-EMEA/ESI_Resources/issues"
 footer:
   links:
   - label: "GitHub"
@@ -97,6 +99,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+    sidebar:
+      nav: "exams"
   # _exams
   - scope:
       path: ""
@@ -106,6 +110,8 @@ defaults:
       author_profile: true
       share: false
       comment: true
+    sidebar:
+      nav: "exams"
 
 category_archive:
   type: liquid
