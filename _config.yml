@@ -67,7 +67,7 @@ footer:
   links:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
-    url: "https://github.com/ESI-EMEA/ESI_Exam_Resources"
+    url: "https://github.com/ESI-EMEA/ESI_Resources"
   - label: "Microsoft Trainer Community Channel"
     icon: "fab fa-fw fa-youtube"
     url: "https://www.youtube.com/c/MicrosoftTrainerCommunityChannel"
