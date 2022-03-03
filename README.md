@@ -3,6 +3,8 @@
 ## Prerequisites
 Follow tutorial in : https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
+**GitHub Codespace defined in the repo has all tools installed***
+
 ## Theme Docs
 The chosen theme is `minimal mistakes`. You can find documentation in https://mmistakes.github.io/minimal-mistakes/docs/configuration/ 
 ## Debug
