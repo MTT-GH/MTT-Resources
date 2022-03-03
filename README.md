@@ -10,3 +10,7 @@ The chosen theme is `minimal mistakes`. You can find documentation in https://mm
 
     
     ```bundle exec jekyll serve --livereload```
+
+## Certification icons
+Taken from credly profiles as they all have 600x600 format. Example: https://www.credly.com/users/unai-huete/badges
+IMPORTANT TODO --> Images should be modifief to be wider for the grid container, define SIZE AND SOURCE!
