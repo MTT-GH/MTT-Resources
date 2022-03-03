@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "General Resources"
+    url: /
+  - title: "Exams"
+    url: /Exams/
+  - title: "Report Issue"
+    url: "https://github.com/ESI-EMEA/ESI_Resources/issues"
+
+
+exams:
+- title: Exam Content
+  children:
+  - title: "AZ-204"
+    url: /exams/AZ204/
+  - title: "AZ-400"
+    url: /exams/AZ400/
+  - title: "AI-102"
+    url: /exams/AI102/
+

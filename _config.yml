@@ -13,16 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: ESI Exam Resources
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  This Website will provide material for the preparation of Microsoft Certifications
 minimal_mistakes_skin: default
 search: true
+logo: "/assets/images/Microsoft-Logo.png"
 
 # Build settings
 markdown: kramdown
@@ -40,7 +37,7 @@ include:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
-#   - Gemfile
+#   - _posts
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
@@ -58,34 +55,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name : "Microsoft Trainer Community"
+  avatar : "/assets/images/mtt-profile.jpg"
+  bio : "Microsoft Technical Trainer supported Exam Resources"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Microsoft Trainer Community"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/MicrosoftTrainerCommunityChannel"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/ESI-EMEA/ESI_Resources"
+  - label: "Microsoft Trainer Community Channel"
+    icon: "fab fa-fw fa-youtube"
+    url: "https://www.youtube.com/c/MicrosoftTrainerCommunityChannel"
+
+# Collections
+collections:
+  exams:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -106,6 +97,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+    sidebar:
+      nav: "exams"
+  # _exams
+  - scope:
+      path: ""
+      type: exams
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+    sidebar:
+      nav: "exams"
 
 category_archive:
   type: liquid
@@ -113,3 +117,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+

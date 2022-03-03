@@ -1,27 +1,18 @@
-# Minimal Mistakes remote theme starter
+# Run template on GitHub Codespaces
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## Prerequisites
+Follow tutorial in : https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
-Contains basic configuration to get you a site with:
+**GitHub Codespace defined in the repo has all tools installed***
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Theme Docs
+The chosen theme is `minimal mistakes`. You can find documentation in https://mmistakes.github.io/minimal-mistakes/docs/configuration/ 
+## Debug
+- Build the site and make it available on a local server.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+    
+    ```bundle exec jekyll serve --livereload```
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Certification icons
+Taken from credly profiles as they all have 600x600 format. Example: https://www.credly.com/users/unai-huete/badges
+IMPORTANT TODO --> Images should be modifief to be wider for the grid container, define SIZE AND SOURCE!
