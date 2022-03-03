@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Exams"
     url: /Exams/
+  - title: "Report Issue"
+    url: "https://github.com/ESI-EMEA/ESI_Resources/issues"
 
 
 exams:

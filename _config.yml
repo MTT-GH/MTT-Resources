@@ -62,9 +62,7 @@ author:
     - label: "Microsoft Trainer Community"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/MicrosoftTrainerCommunityChannel"
-    - label: "Report Website Issue"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ESI-EMEA/ESI_Resources/issues"
+
 footer:
   links:
   - label: "GitHub"
