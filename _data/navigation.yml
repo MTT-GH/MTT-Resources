@@ -10,10 +10,17 @@ main:
 exams:
 - title: Exam Content
   children:
+  - title: "AZ-104"
+    url: /exams/AZ104/
   - title: "AZ-204"
     url: /exams/AZ204/
   - title: "AZ-400"
     url: /exams/AZ400/
   - title: "AI-102"
     url: /exams/AI102/
+  - title: "DP-090"
+    url: /exams/DP090/
+  - title: "DP-100"
+    url: /exams/DP100/
+    
 
