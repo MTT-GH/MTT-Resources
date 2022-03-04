@@ -1,9 +1,9 @@
 main:
-  - title: "General Resources"
+  - title: ":clipboard: General Resources"
     url: /
-  - title: "Exams"
+  - title: ":pencil: Exams"
     url: /Exams/
-  - title: "Report Issue"
+  - title: ":x: Report Issue"
     url: "https://github.com/ESI-EMEA/ESI_Resources/issues"
 
 
