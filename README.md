@@ -19,5 +19,6 @@ The chosen theme is `minimal mistakes`. You can find documentation in https://mm
 Taken from https://github.com/caiyongji/emoji-list
 
 ## Certification icons
-Taken from credly profiles as they all have 600x600 format. Example: https://www.credly.com/users/unai-huete/badges
+**FOR TEASER/GRID** Taken from credly profiles as they all have 600x600 format. Example: https://www.credly.com/users/unai-huete/badges
 IMPORTANT TODO --> Images should be modifief to be wider for the grid container, define SIZE AND SOURCE!
+**FOR EXAM PAGE** taken from specific exam pages such as: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100 and **Copy image link**
