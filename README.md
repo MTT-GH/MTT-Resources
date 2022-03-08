@@ -8,6 +8,12 @@ Follow tutorial in : https://docs.github.com/en/pages/setting-up-a-github-pages-
 ## Theme Docs
 The chosen theme is `minimal mistakes`. You can find documentation in https://mmistakes.github.io/minimal-mistakes/docs/configuration/ 
 
+## Structure
+
+- Main page : index.md
+- Exams list page: _pages/Exams.md
+- Individual exam pages: _exams/*.md
+- Navigations: _data/navigation.yml
 ## Debug and live changes
 - Open a terminal on codespaces and build the site and make it available on a local server.
 

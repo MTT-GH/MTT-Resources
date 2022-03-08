@@ -10,7 +10,11 @@ header:
 sidebar:
   nav: "exams"
 ---
+## Microsoft Learn
+:earth_americas:[Microsoft Learn](https://www.Microsoft.com/Learn "Microsoft Learn")
 
+:warning: Associate work/personal accounts
+![associate accounts](assets/images/learn-accounts.png)
 ## General Resources
 
 :earth_americas: [Microsoft Certification Overview ](https://www.microsoft.com/certification "Microsoft Certification Overview ")
