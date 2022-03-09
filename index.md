@@ -21,7 +21,7 @@ sidebar:
 
 :earth_americas: [Microsoft Official Curriculum ](https://www.aka.ms/MOC "Microsoft Official Curriculum ")
 
-:earth_americas:[Microsoft Learn](https://www.Microsoft.com/Learn "Microsoft Learn")
+:earth_americas: [Microsoft Learn](https://www.Microsoft.com/Learn "Microsoft Learn")
 
 :earth_americas: [Azure Architecture Center](https://www.aka.ms/architecture "Azure Architecture Center")
 
@@ -29,23 +29,23 @@ sidebar:
 
 :earth_americas: [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
 
-## Microsoft ESI program resources
-:earth_americas: Learner experience portal: [ESI customer portal](https://esi.microsoft.com/)
+## Microsoft Enterprise Skilling Initiative (ESI) program resources
+:earth_americas: Learner Experience Portal (LxP): [ESI customer portal](https://esi.microsoft.com/)
 
-  > :free: FREE Practise Exams:
+  > :free: FREE Practice Exams:
   ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
 
-:sos: Need to ask question about the program? Open a Ticket? [ESI support](https://esisupport.microsoft.com/)
+:sos: Need to ask questions about the program? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
 
 ## Course Provided Material
 :computer: [Hosted Lab VM website](https://esi.learnondemand.net/)
-  > :warning:: activated for 6 Months 
+  > :warning:: Activated for 6 months 
 
-:chart_with_upwards_trend: [Azure Pass Susbcriptions Balance](https://www.microsoftazuresponsorships.com/balance)
+:chart_with_upwards_trend: [Azure Pass Subscriptions Balance](https://www.microsoftazuresponsorships.com/balance)
   > :warning:: Valid for 1 month and/or 100$
 
 ## Exam Preparation & Renewal Material
-:arrow_forward: How to register for the exams:
+:arrow_forward: How to register for exams:
 [![Watch the video](assets/images/video-exam-reg.png)](https://aka.ms/LxPExamDiscountVideo)
 
   > :warning:: How many vouchers do I have? It depends on the customer´s ESI program, ask internally.
