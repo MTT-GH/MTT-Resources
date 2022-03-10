@@ -21,8 +21,6 @@ sidebar:
 
 :earth_americas: [Microsoft Official Curriculum ](https://www.aka.ms/MOC "Microsoft Official Curriculum ")
 
-:earth_americas: [Microsoft Learn](https://www.Microsoft.com/Learn "Microsoft Learn")
-
 :earth_americas: [Azure Architecture Center](https://www.aka.ms/architecture "Azure Architecture Center")
 
 :earth_americas: [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
