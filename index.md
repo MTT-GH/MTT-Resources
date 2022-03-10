@@ -29,7 +29,22 @@ sidebar:
 
 :earth_americas: [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
 
+:earth_americas: [Azure Fridays](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+
+:earth_americas: [Channel 9](https://channel9.msdn.com/)
+
+:earth_americas: [Azure blog](https://azure.microsoft.com/en-us/blog/)
+
+:earth_americas: [Azure forums](https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform)
+
+:earth_americas: [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
+
+:earth_americas: [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
+
+:earth_americas: [Free Azure E-books](https://azure.microsoft.com/en-us/resources/whitepapers/)
+
 ## Microsoft Enterprise Skilling Initiative (ESI) program resources
+
 :earth_americas: Learner Experience Portal (LxP): [ESI customer portal](https://esi.microsoft.com/)
 
   > :free: FREE Practice Exams:
