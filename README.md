@@ -14,13 +14,19 @@ The chosen theme is `minimal mistakes`. You can find documentation in https://mm
 - Exams list page: _pages/Exams.md
 - Individual exam pages: _exams/*.md
 - Navigations: _data/navigation.yml
+
+
 ## Debug and live changes
+
 - Open a terminal on codespaces and build the site and make it available on a local server.
 
-    
+    ```bundle install``` **(Only once)**
+
+
     ```bundle exec jekyll serve --livereload```
 
 - On terminal **Ports**  make port 4000 **Public**. Changes made to markdown files will be reloaded **live** (not supported for Gemfile or _config.yml files)
+
 ## Emoticons
 Taken from https://github.com/caiyongji/emoji-list
 
