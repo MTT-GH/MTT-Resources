@@ -24,4 +24,12 @@ chown -R $USER_UID:$USER_GID /home/$USERNAME/.oh-my-zsh /home/$USERNAME/.zshrc
 
 # setup and install ruby, jekyll and bundler
 apt-get install -y ruby-full build-essential zlib1g-dev
+apt-get install -y locales
+echo "en_US UTF-8" > /etc/locale.gen
+locale-gen en_US.UTF-8
+export LANG=en_US.UTF-8
+export LANGUAGE=en_US:en
+export LC_ALL=en_US.UTF-8
 gem install jekyll bundler
+
+
