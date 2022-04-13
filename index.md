@@ -15,6 +15,61 @@ sidebar:
 
 :warning: Associate work/personal accounts
 ![associate accounts](assets/images/learn-accounts.png)
+
+## Microsoft Enterprise Skilling Initiative (ESI) program resources
+
+:earth_americas: Learner Experience Portal (LxP): [ESI customer portal](https://esi.microsoft.com/)
+
+  > :free: FREE Practice Exams:
+  ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
+
+:sos: Need to ask questions about the program? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
+
+## Course Provided LAB VM
+:computer: [Skillable Hosted Lab VM website](https://esi.learnondemand.net/)
+  > :warning:: Activated for 6 months 
+
+## Course Provided Azure Subscription (2 options)
+
+1. :chart_with_upwards_trend: **Azure Pass Subscriptions** [Balance](https://www.microsoftazuresponsorships.com/balance)
+  > :warning:: Valid for 1 month and/or 100$
+
+1. :chart_with_upwards_trend: **Skillable CloudSlice** : Skillable precreated subscription for  each lab.
+  > :warning: **Limitations**
+
+  - Launch lab only up to 10 times 
+
+  - Each launch has a time limit that must be used within that time (no save) 
+
+  - You can extend the lab for 40 minutes for the first time and then 20 minutes the second time. Getting an additional 60 minutes added to your lab time (this may vary depending on the course) 
+
+  - Labs will be available for 6 months when learner redeems training key 
+
+  - LODS creates each lab with policies that prevent the learner from creating anything that is not part of the lab objectives
+
+## Exam Preparation & Renewal Material
+:arrow_forward: How to register for exams:
+[![Watch the video](assets/images/video-exam-reg.png)](https://aka.ms/LxPExamDiscountVideo)
+
+  > :warning:: How many vouchers do I have? It depends on the customer´s ESI program, ask internally.
+
+:earth_americas: Exam retake policy : [Retake policy](https://docs.microsoft.com/en-us/learn/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
+
+:earth_americas: Study Guides for all exams: [ESI Study Guides](https://aka.ms/ESIStudyGuides) 
+
+:earth_americas: Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
+
+:interrobang: What is the duration of the exam? What kind of questions can I get? [Microsoft Exam Question Types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
+
+:computer: How does the exam enviroment/tool look like? [Microsoft Exam Environment Demo](http://aka.ms/examdemo)
+
+:earth_americas: [Renew your Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification)
+
+:arrow_forward: [Renewal Process video](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
+[![Watch the video](assets/images/renew-cert.png)](https://www.youtube.com/watch?v=ttuhmFHOTU8)
+
+:earth_americas: [Take the exam at home](https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/)
+
 ## General Resources
 
 :earth_americas: [Microsoft Certification Overview ](https://www.microsoft.com/certification "Microsoft Certification Overview ")
@@ -40,42 +95,3 @@ sidebar:
 :earth_americas: [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 
 :earth_americas: [Free Azure E-books](https://azure.microsoft.com/en-us/resources/whitepapers/)
-
-## Microsoft Enterprise Skilling Initiative (ESI) program resources
-
-:earth_americas: Learner Experience Portal (LxP): [ESI customer portal](https://esi.microsoft.com/)
-
-  > :free: FREE Practice Exams:
-  ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
-
-:sos: Need to ask questions about the program? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
-
-## Course Provided Material
-:computer: [Hosted Lab VM website](https://esi.learnondemand.net/)
-  > :warning:: Activated for 6 months 
-
-:chart_with_upwards_trend: [Azure Pass Subscriptions Balance](https://www.microsoftazuresponsorships.com/balance)
-  > :warning:: Valid for 1 month and/or 100$
-
-## Exam Preparation & Renewal Material
-:arrow_forward: How to register for exams:
-[![Watch the video](assets/images/video-exam-reg.png)](https://aka.ms/LxPExamDiscountVideo)
-
-  > :warning:: How many vouchers do I have? It depends on the customer´s ESI program, ask internally.
-
-:earth_americas: Exam retake policy : [Retake policy](https://docs.microsoft.com/en-us/learn/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
-
-:earth_americas: Study Guides for all exams: [ESI Study Guides](https://aka.ms/ESIStudyGuides) 
-
-:earth_americas: Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
-
-:interrobang: What is the duration of the exam? What kind of questions can I get? [Microsoft Exam Question Types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
-
-:computer: How does the exam enviroment/tool look like? [Microsoft Exam Environment Demo](http://aka.ms/examdemo)
-
-:earth_americas: [Renew your Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification)
-
-:arrow_forward: [Renewal Process video](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
-[![Watch the video](assets/images/renew-cert.png)](https://www.youtube.com/watch?v=ttuhmFHOTU8)
-
-:earth_americas: [Take the exam at home](https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/)
