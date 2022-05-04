@@ -32,7 +32,7 @@ sidebar:
 ## Course Provided Azure Subscription (2 options)
 
 1. :chart_with_upwards_trend: **Azure Pass Subscriptions** [Balance](https://www.microsoftazuresponsorships.com/balance)
-  > :warning:: Valid for 1 month and/or 100$
+  > :warning:: Valid for 1 month and/or 50-150$ (amount depends on course)
 
 1. :chart_with_upwards_trend: **Skillable CloudSlice** : Skillable precreated subscription for  each lab.
   > :warning: **Limitations**
