@@ -14,8 +14,12 @@ exams:
     url: /exams/AZ104/
   - title: "AZ-204"
     url: /exams/AZ204/
+  - title: "AZ-305"
+    url: /exams/AZ305/
   - title: "AZ-400"
     url: /exams/AZ400/
+  - title: "AZ-700"
+    url: /exams/AZ700/
   - title: "AI-102"
     url: /exams/AI102/
   - title: "DP-090"
