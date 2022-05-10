@@ -28,12 +28,22 @@ exams:
     url: /exams/AZ500/
   - title: "AZ-700"
     url: /exams/AZ700/
+  - title: "AZ-800"
+    url: /exams/AZ800
+  - title: "AZ-801"
+    url: /exams/AZ801
+  - title: "AZ-900"
+    url: /exams/AZ900
   - title: "AI-102"
     url: /exams/AI102/
+  - title: "AI-900"
+    url: /exams/AI900
   - title: "DP-090"
     url: /exams/DP090/
   - title: "DP-100"
     url: /exams/DP100/
+  - title: "DP-900"
+    url: /exams/DP900
   - title: "PL-300"
     url: /exams/PL300
   - title: "SC-200"
@@ -42,3 +52,5 @@ exams:
     url: /exams/SC300
   - title: "SC-400"
     url: /exams/SC400
+  - title: "SC-900"
+    url: /exams/SC900
