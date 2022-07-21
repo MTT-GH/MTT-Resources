@@ -5,11 +5,13 @@
 layout: single
 author_profile: true
 header:
+  title: hello
   overlay_image: /assets/images/header.png
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
 sidebar:
   nav: "exams"
 ---
+# ESI Resources
 ## Microsoft Learn
 :earth_americas:[Microsoft Learn](https://www.Microsoft.com/Learn "Microsoft Learn")
 
