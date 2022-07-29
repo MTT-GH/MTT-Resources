@@ -70,6 +70,8 @@ sidebar:
 
 :earth_americas: [Take the exam at home](https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/)
 
+:star: [Celebrate your Microsoft Skills](https://aka.ms/CelebrateYourMicrosoftSkills)
+
 ## General Resources
 
 :earth_americas: [Microsoft Certification Overview ](https://www.microsoft.com/certification "Microsoft Certification Overview ")
