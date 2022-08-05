@@ -57,7 +57,7 @@ sidebar:
 
 :earth_americas: Exam retake policy : [Retake policy](https://docs.microsoft.com/en-us/learn/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
 
-:earth_americas: Study Guides for all exams: [ESI Study Guides](https://aka.ms/ESIStudyGuides) 
+:earth_americas: Available courses, skilling maps and cloud adoption guidance [Azure Training Journey](https://aka.ms/esiAzureTrainingJourney) 
 
 :earth_americas: Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
 
