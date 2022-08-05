@@ -42,6 +42,10 @@ exams:
     url: /exams/DP090/
   - title: "DP-100"
     url: /exams/DP100/
+  - title: "DP-203"
+    url: /exams/DP203
+  - title: "DP-420"
+    url: /exams/DP420
   - title: "DP-900"
     url: /exams/DP900
   - title: "PL-300"
