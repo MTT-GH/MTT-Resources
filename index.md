@@ -33,21 +33,25 @@ sidebar:
 
 ## Course Provided Azure Subscription (2 options)
 
-1. :chart_with_upwards_trend: **Azure Pass Subscriptions** [Balance](https://www.microsoftazuresponsorships.com/balance)
-  > :warning:: Valid for 1 month and/or 50-150$ (amount depends on course)
+1. :chart_with_upwards_trend: **Azure Pass Subscriptions** 
+    - [Balance](https://www.microsoftazuresponsorships.com/balance)
+    - [Activate Azure Pass in 5 steps](https://aka.ms/activatepass)
+    > :warning:: Valid for 1 month and/or 50-150$ (amount depends on course)
+
+
 
 1. :chart_with_upwards_trend: **Skillable CloudSlice** : Skillable precreated subscription for  each lab.
-  > :warning: **Limitations**
+    > :warning: **Limitations**
 
-  - Launch lab only up to 10 times 
+    - Launch lab only up to 10 times 
 
-  - Each launch has a time limit that must be used within that time (no save) 
+    - Each launch has a time limit that must be used within that time (no save) 
 
-  - You can extend the lab for 40 minutes for the first time and then 20 minutes the second time. Getting an additional 60 minutes added to your lab time (this may vary depending on the course) 
+    - You can extend the lab for 40 minutes for the first time and then 20 minutes the second time. Getting an additional 60 minutes added to your lab time (this may vary depending on the course) 
 
-  - Labs will be available for 6 months when learner redeems training key 
+    - Labs will be available for 6 months when learner redeems training key 
 
-  - LODS creates each lab with policies that prevent the learner from creating anything that is not part of the lab objectives
+    - LODS creates each lab with policies that prevent the learner from creating anything that is not part of the lab objectives
 
 ## Exam Preparation & Renewal Material
 :arrow_forward: How to register for exams:
