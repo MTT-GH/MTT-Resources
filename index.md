@@ -13,7 +13,7 @@ sidebar:
 ---
 # ESI Resources
 ## Microsoft Learn
-:earth_americas:[Microsoft Learn](https://www.Microsoft.com/Learn "Microsoft Learn")
+:earth_americas:[Microsoft Learn](https://learn.microsoft.com/ "Microsoft Learn")
 
 :warning: Associate work/personal accounts
 ![associate accounts](assets/images/learn-accounts.png)
@@ -59,7 +59,7 @@ sidebar:
 
   > :warning:: How many vouchers do I have? It depends on the customer´s ESI program, ask internally.
 
-:earth_americas: Exam retake policy : [Retake policy](https://docs.microsoft.com/en-us/learn/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
+:earth_americas: Exam retake policy : [Retake policy](https://learn.microsoft.com/en-us/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
 
 :earth_americas: Available courses, skilling maps and cloud adoption guidance [Azure Training Journey](https://aka.ms/esiAzureTrainingJourney) 
 
@@ -69,7 +69,7 @@ sidebar:
 
 :computer: How does the exam enviroment/tool look like? [Microsoft Exam Environment Demo](http://aka.ms/examdemo)
 
-:earth_americas: [Renew your Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification)
+:earth_americas: [Renew your Microsoft Certification](https://learn.microsoft.com/en-us/certifications/renew-your-microsoft-certification)
 
 :arrow_forward: [Renewal Process video](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
 [![Watch the video](assets/images/renew-cert.png)](https://www.youtube.com/watch?v=ttuhmFHOTU8)
@@ -90,7 +90,7 @@ sidebar:
 
 :earth_americas: [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
 
-:earth_americas: [Azure Fridays](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+:earth_americas: [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/)
 
 :earth_americas: [Channel 9](https://channel9.msdn.com/)
 
