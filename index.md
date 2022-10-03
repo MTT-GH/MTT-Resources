@@ -88,8 +88,6 @@ sidebar:
 
 :earth_americas: [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
 
-:earth_americas: [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
-
 :earth_americas: [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/)
 
 :earth_americas: [Channel 9](https://channel9.msdn.com/)
