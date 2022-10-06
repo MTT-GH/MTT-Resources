@@ -50,6 +50,8 @@ exams:
     url: /exams/DP900
   - title: "PL-300"
     url: /exams/PL300
+  - title: "SC-100"
+    url: /exams/SC100
   - title: "SC-200"
     url: /exams/SC200
   - title: "SC-300"
