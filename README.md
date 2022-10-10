@@ -30,6 +30,10 @@ The chosen theme is `minimal mistakes`. You can find documentation in https://mm
 ## Emoticons
 Taken from https://github.com/caiyongji/emoji-list
 
+## Application Insights
+
+/workspaces/ESI_Resources/_includes/head/custom.html change connection string.
+
 ## Certification icons
 **FOR TEASER/GRID** Taken from credly profiles as they all have 600x600 format. Example: https://www.credly.com/users/unai-huete/badges
 IMPORTANT TODO --> Images should be modifief to be wider for the grid container, define SIZE AND SOURCE!
