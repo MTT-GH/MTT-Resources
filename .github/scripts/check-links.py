@@ -96,7 +96,7 @@ def link_exam_page():
             print("All links are working for ", exam_page, " page")
             
 ##Create a GitHub Issue on the repository
-def create_issue():
+def create_issue(link):
     #Create a GitHub Issue on the repository
     #
     # This script requires the PyGithub library
@@ -112,13 +112,15 @@ def create_issue():
     repo = g.get_repo("ESI-EMEA/ESI_Resources")
     
     # Create the issue
-    issue = repo.create_issue(title="Broken Links", body="Broken Links in the ESI Resources Repository")
+    title_content = "Review link "+link
+    body_content = "Link "+link+" has failed"
+    issue = repo.create_issue(title=title_content, body=body_content)
 
 
 def main():
-    #link_index_page()
+    #ink_index_page()
     #link_exam_page()
-    create_issue()
+    create_issue("https://aka.ms/test")
 
 if __name__ == "__main__":
     main()
