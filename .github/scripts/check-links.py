@@ -115,6 +115,7 @@ def create_issue(link):
     title_content = "Review link "+link
     body_content = "Link "+link+" has failed"
     issue = repo.create_issue(title=title_content, body=body_content)
+    print ("Issue has been created")
 
 
 def main():
