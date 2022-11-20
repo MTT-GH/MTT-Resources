@@ -19,5 +19,7 @@ jobs:
         run: |
             pip install -r requirements.txt
       - name: execute py script # run file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python .github/scripts/check-links.py
