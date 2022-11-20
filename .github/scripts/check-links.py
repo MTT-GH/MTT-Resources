@@ -41,6 +41,9 @@ def link_index_page():
         if response.status != 200:
             print("Bad link: ", link, "Status: ", response.status)
             bad_links.append(link)
+            #Create GitHub Issue
+            create_issue(link)
+
 
     # if list is not empty, print the list
     if bad_links:
@@ -88,6 +91,8 @@ def link_exam_page():
             if response.status != 200:
                 print("Bad link: ", link, "Status: ", response.status)
                 bad_links.append(link)
+                #Create GitHub Issue
+                create_issue(link)
 
         # if list is not empty, print the list
         if bad_links:
@@ -119,9 +124,9 @@ def create_issue(link):
 
 
 def main():
-    #ink_index_page()
-    #link_exam_page()
-    create_issue("https://aka.ms/test")
+    link_index_page()
+    link_exam_page()
+    #create_issue("https://aka.ms/test")
 
 if __name__ == "__main__":
     main()
