@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Get project data
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT_ISSUE_AUTO }}
           ORGANIZATION: ESI-EMEA
           PROJECT_NUMBER: 1
         run: |
