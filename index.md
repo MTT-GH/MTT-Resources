@@ -11,7 +11,23 @@ header:
 sidebar:
   nav: "exams"
 ---
-# ESI Resources
+# Microsoft Trainer Team Guidance to ESI Resources
+
+This website is a collection of exam related links/material maintained by Microsoft Technical Trainers. As a learner, you will find information you may need to get prepared for a Microsoft Certification exam.
+
+On the **General Resources** tab you will find the following information: 
+
+- [Microsoft Learn](#microsoft-learn)
+- [Microsoft Enterprise Skilling Initiative (ESI) program resources](#microsoft-enterprise-skilling-initiative-esi-program-resources)
+- [Lab Environment (Skillable)](#lab-environment-skillable)
+- [Course Provided Azure Subscription (2 options)](#course-provided-azure-subscription-2-options)
+- [Exam Preparation & Renewal Material](#exam-preparation--renewal-material)
+- [General Resources](#general-resources)
+
+On the individual **Exam** pages you will find:
+- Reference to Microsoft Learn material for the course/exam
+- Lab instructions for the course/exam
+
 ## Microsoft Learn
 :earth_americas:[Microsoft Learn](https://learn.microsoft.com/ "Microsoft Learn")
 
@@ -27,20 +43,15 @@ sidebar:
 
 :sos: Need to ask questions about the program? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
 
-## Course Provided LAB VM
+## Lab Environment (Skillable)
 :computer: [Skillable Hosted Lab VM website](https://esi.learnondemand.net/)
   > :warning:: Activated for 6 months 
 
 ## Course Provided Azure Subscription (2 options)
 
-1. :chart_with_upwards_trend: **Azure Pass Subscriptions** 
-    - [Balance](https://www.microsoftazuresponsorships.com/balance)
-    - [Activate Azure Pass in 5 steps](https://aka.ms/activatepass)
-    > :warning:: Valid for 1 month and/or 50-150$ (amount depends on course)
+:warning: **Your course will be using one of the following options.** If you are given a predefined Azure account on the lab instruccions, Cloudslice will be your subscription type.
 
-
-
-1. :chart_with_upwards_trend: **Skillable CloudSlice** : Skillable precreated subscription for  each lab.
+1. :chart_with_upwards_trend: **Azure Cloud Slice by Skillable** : ready-to-use azure environment/account prepared for you
     > :warning: **Limitations**
 
     - Launch lab only up to 10 times 
@@ -51,9 +62,21 @@ sidebar:
 
     - Labs will be available for 6 months when learner redeems training key 
 
-    - LODS creates each lab with policies that prevent the learner from creating anything that is not part of the lab objectives
+    - Skillable creates each lab with policies that prevent the learner from creating anything that is not part of the lab objectives
+
+1. :chart_with_upwards_trend: **Microsoft Azure Pass** 
+    - [Balance](https://www.microsoftazuresponsorships.com/balance)
+    - [Activate Azure Pass in 5 steps](https://aka.ms/activatepass)
+    > :warning: Valid for 1 month and/or 50-150$ (amount depends on course)
+
+1. :earth_americas: [Comparison table](https://www.skillable.com/moc-cloud-slice/) 
+
+
 
 ## Exam Preparation & Renewal Material
+
+:mag: Videos with tips, tricks, and strategies for preparing for a Microsoft Certification exam: [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/)
+
 :arrow_forward: How to register for exams:
 [![Watch the video](assets/images/video-exam-reg.png)](https://aka.ms/LxPExamDiscountVideo)
 
