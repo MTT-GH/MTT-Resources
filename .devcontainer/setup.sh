@@ -30,6 +30,8 @@ locale-gen en_US.UTF-8
 export LANG=en_US.UTF-8
 export LANGUAGE=en_US:en
 export LC_ALL=en_US.UTF-8
+gem update --system
+gem install sass-embedded -v 1.57.1
 gem install jekyll bundler
 
 

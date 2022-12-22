@@ -20,7 +20,7 @@ The chosen theme is `minimal mistakes`. You can find documentation in https://mm
 
 - Open a terminal on codespaces and build the site and make it available on a local server.
 
-    ```bundle install``` **(Only once)**
+    ```bundle install --path vendor/bundle``` **(Only once)**
 
 
     ```bundle exec jekyll serve --livereload```
