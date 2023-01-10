@@ -1,4 +1,4 @@
-# ESI Resources
+# MTT Guide to Exams
 
 In this short readme you will find all the information and processes needed to maintain this repository.
 
@@ -40,7 +40,7 @@ This page contains the navigation links.
 ### General Page guidelines
 
 - All links in the pages should be the officially maintained aka.ms links, to avoid dead links or added maintenance
-- Link addition or removal should follow the ESI program closing deck and program guidelines
+- Link addition or removal should follow the MTT closing deck and program guidelines
 
 ## Debug and live changes
 

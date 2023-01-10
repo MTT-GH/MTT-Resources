@@ -11,7 +11,7 @@ header:
 sidebar:
   nav: "exams"
 ---
-# Microsoft Trainer Team Guidance to ESI Resources
+# Microsoft Trainer Team Guidance to Exams
 
 This website is a collection of exam related links/material maintained by Microsoft Technical Trainers. As a learner, you will find information you may need to get prepared for a Microsoft Certification exam.
 
@@ -36,12 +36,12 @@ On the individual **Exam** pages you will find:
 
 ## Microsoft Enterprise Skilling Initiative (ESI) program resources
 
-:earth_americas: Learner Experience Portal (LxP): [ESI customer portal](https://esi.microsoft.com/)
+:earth_americas: Learner Experience Portal (LxP): [LXP customer portal](https://esi.microsoft.com/)
 
   > :free: FREE Practice Exams:
   ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
 
-:sos: Need to ask questions about the program? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
+:sos: Need to ask for support? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
 
 ## Lab Environment (Skillable)
 :computer: [Skillable Hosted Lab VM website](https://esi.learnondemand.net/)
@@ -80,7 +80,7 @@ On the individual **Exam** pages you will find:
 :arrow_forward: How to register for exams:
 [![Watch the video](assets/images/video-exam-reg.png)](https://aka.ms/LxPExamDiscountVideo)
 
-  > :warning:: How many vouchers do I have? It depends on the customer´s ESI program, ask internally.
+  > :warning:: How many vouchers do I have? It depends on the customer´s  program, ask internally.
 
 :earth_americas: Exam retake policy : [Retake policy](https://learn.microsoft.com/en-us/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
 
