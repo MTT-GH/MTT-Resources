@@ -7,7 +7,7 @@ In this short readme you will find all the information and processes needed to m
 ## Prerequisites
 To find out how to start setting up github pages follow the tutorial here : https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
-** The GitHub Codespace defined in the repo has all the necessary tools already installed***
+**The GitHub Codespace defined in the repo has all the necessary tools already installed**
 
 ## Theme Docs
 The chosen theme is `minimal mistakes`. You can find documentation and configuration options https://mmistakes.github.io/minimal-mistakes/docs/configuration/. The theme has been updated to reflect the latest Learn branding.
