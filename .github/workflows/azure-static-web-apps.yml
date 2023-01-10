@@ -51,8 +51,6 @@ jobs:
       #     npm install -g markdown-pdf
       #     markdown-pdf index.md
 
-    a
-
     - uses: actions/upload-artifact@v1
       with:
         name: docs
