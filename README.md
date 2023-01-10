@@ -46,7 +46,7 @@ This page contains the navigation links.
 
 - Open a terminal on codespaces and build the site and make it available on a local server.
 
-    ```bundle install --path vendor/bundle``` **(Only once)**
+    ```bundle config set path 'vendor/bundle'``` **(Only once)**
 
 
     ```bundle exec jekyll serve --livereload```
