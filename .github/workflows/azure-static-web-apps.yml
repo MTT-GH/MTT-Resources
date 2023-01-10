@@ -47,9 +47,24 @@ jobs:
       #     #image_import: ./images
       #     # Default is true, can set to false to only get PDF files
       #     build_html: false
-      - run: |
-          npm install -g markdown-pdf
-          markdown-pdf index.md
+      # - run: |
+      #     npm install -g markdown-pdf
+      #     markdown-pdf index.md
+
+      makepdfs:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v1
+        - uses: mkrakowitzer/actions-makepdfs@master
+          if: github.ref == 'refs/heads/master'
+          with:
+            markdown_dir: index.md
+            output_dir: tmp
+            media_dir: assets/images
+        - uses: actions/upload-artifact@v1
+          with:
+            name: pdf
+            path: tmp
 
       - uses: actions/upload-artifact@v1
         with:
