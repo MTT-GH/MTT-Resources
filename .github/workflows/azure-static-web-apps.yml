@@ -51,7 +51,6 @@ jobs:
     #     markdown-pdf index.md
 
     - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
       with:
         markdown_dir: index.md
         output_dir: pdf-output
@@ -61,10 +60,10 @@ jobs:
         name: pdf
         path: pdf-output
 
-    - uses: actions/upload-artifact@v1
-      with:
-        name: docs
-        path: index.pdf
+    # - uses: actions/upload-artifact@v1
+    #   with:
+    #     name: docs
+    #     path: index.pdf
 
   # close_pull_request_job:
   #   if: github.event_name == 'pull_request' && github.event.action == 'closed'
