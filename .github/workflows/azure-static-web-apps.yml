@@ -54,7 +54,7 @@ jobs:
       with:
         markdown_dir: index.md
         output_dir: pdf-output
-        images_dir: assets/images
+        media_dir: assets/images
     - uses: actions/upload-artifact@v1
       with:
         name: pdf
