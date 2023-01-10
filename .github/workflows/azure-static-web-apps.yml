@@ -54,12 +54,12 @@ jobs:
       if: github.ref == 'refs/heads/master'
       with:
         markdown_dir: index.md
-        output_dir: tmp
+        output_dir: pdf-output
         images_dir: assets/images
     - uses: actions/upload-artifact@v1
       with:
         name: pdf
-        path: tmp
+        path: pdf-output
 
     - uses: actions/upload-artifact@v1
       with:
