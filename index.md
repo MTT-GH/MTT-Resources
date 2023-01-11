@@ -39,7 +39,7 @@ On the individual **Exam** pages you will find:
 :earth_americas: Learner Experience Portal (LxP): [ESI customer portal](https://esi.microsoft.com/)
 
   > :free: FREE Practice Exams:
-  ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
+  ![image](assets/images/practise-exams.png)
 
 :sos: Need to ask questions about the program? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
 
