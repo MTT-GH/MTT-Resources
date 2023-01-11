@@ -24,10 +24,6 @@ On the **General Resources** tab you will find the following information:
 - [Exam Preparation & Renewal Material](#exam-preparation--renewal-material)
 - [General Resources](#general-resources)
 
-On the individual **Exam** pages you will find:
-- Reference to Microsoft Learn material for the course/exam
-- Lab instructions for the course/exam
-
 ## Microsoft Learn
 :earth_americas:[Microsoft Learn](https://learn.microsoft.com/ "Microsoft Learn")
 
