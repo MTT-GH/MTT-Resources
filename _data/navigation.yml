@@ -4,7 +4,7 @@ main:
   - title: ":pencil: Exams"
     url: /Exams/
   - title: ":x: Report Issue"
-    url: "https://github.com/ESI-EMEA/ESI_Resources/issues"
+    url: "https://github.com/MTT-GH/MTT-Resources/issues"
 
 
 exams:
