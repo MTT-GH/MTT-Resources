@@ -11,7 +11,7 @@ header:
 sidebar:
   nav: "exams"
 ---
-# Microsoft Trainer Team Guidance to Exams
+# Microsoft Trainer Team resources
 
 This website is a collection of exam related links/material maintained by Microsoft Technical Trainers. As a learner, you will find information you may need to get prepared for a Microsoft Certification exam.
 
