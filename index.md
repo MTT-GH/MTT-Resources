@@ -18,9 +18,6 @@ This website is a collection of exam related links/material maintained by Micros
 On the **General Resources** tab you will find the following information: 
 
 - [Microsoft Learn](#microsoft-learn)
-- [Microsoft Enterprise Skilling Initiative (ESI) program resources](#microsoft-enterprise-skilling-initiative-esi-program-resources)
-- [Lab Environment (Skillable)](#lab-environment-skillable)
-- [Course Provided Azure Subscription (2 options)](#course-provided-azure-subscription-2-options)
 - [Exam Preparation & Renewal Material](#exam-preparation--renewal-material)
 - [General Resources](#general-resources)
 
@@ -30,57 +27,12 @@ On the **General Resources** tab you will find the following information:
 :warning: Associate work/personal accounts
 ![associate accounts](assets/images/learn-accounts.png)
 
-## Microsoft Enterprise Skilling Initiative (ESI) program resources
-
-:earth_americas: Learner Experience Portal (LxP): [LXP customer portal](https://esi.microsoft.com/)
-
-  > :free: FREE Practice Exams:
-  ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
-
-:sos: Need to ask for support? Open a ticket? [ESI support](https://esisupport.microsoft.com/)
-
-## Lab Environment (Skillable)
-:computer: [Skillable Hosted Lab VM website](https://esi.learnondemand.net/)
-  > :warning:: Activated for 6 months 
-
-## Course Provided Azure Subscription (2 options)
-
-:warning: **Your course will be using one of the following options.** If you are given a predefined Azure account on the lab instruccions, Cloudslice will be your subscription type.
-
-1. :chart_with_upwards_trend: **Azure Cloud Slice by Skillable** : ready-to-use azure environment/account prepared for you
-    > :warning: **Limitations**
-
-    - Launch lab only up to 10 times 
-
-    - Each launch has a time limit that must be used within that time (no save) 
-
-    - You can extend the lab for 40 minutes for the first time and then 20 minutes the second time. Getting an additional 60 minutes added to your lab time (this may vary depending on the course) 
-
-    - Labs will be available for 6 months when learner redeems training key 
-
-    - Skillable creates each lab with policies that prevent the learner from creating anything that is not part of the lab objectives
-
-1. :chart_with_upwards_trend: **Microsoft Azure Pass** 
-    - [Balance](https://www.microsoftazuresponsorships.com/balance)
-    - [Activate Azure Pass in 5 steps](https://aka.ms/activatepass)
-    > :warning: Valid for 1 month and/or 50-150$ (amount depends on course)
-
-1. :earth_americas: [Comparison table](https://www.skillable.com/moc-cloud-slice/) 
-
-
 
 ## Exam Preparation & Renewal Material
 
 :mag: Videos with tips, tricks, and strategies for preparing for a Microsoft Certification exam: [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/)
 
-:arrow_forward: How to register for exams:
-[![Watch the video](assets/images/video-exam-reg.png)](https://aka.ms/LxPExamDiscountVideo)
-
-  > :warning:: How many vouchers do I have? It depends on the customer´s  program, ask internally.
-
-:earth_americas: Exam retake policy : [Retake policy](https://learn.microsoft.com/en-us/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
-
-:earth_americas: Available courses, skilling maps and cloud adoption guidance [Azure Training Journey](https://aka.ms/esiAzureTrainingJourney) 
+:earth_americas: Exam retake policy : [Retake policy](https://learn.microsoft.com/en-us/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy) 
 
 :earth_americas: Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
 
@@ -97,15 +49,15 @@ On the **General Resources** tab you will find the following information:
 
 :star: [Celebrate your Microsoft Skills](https://aka.ms/CelebrateYourMicrosoftSkills)
 
-## General Resources
+:earth_americas: [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
 
 :earth_americas: [Microsoft Certification Overview ](https://www.microsoft.com/certification "Microsoft Certification Overview ")
+
+## General Resources
 
 :earth_americas: [Microsoft Official Curriculum ](https://www.aka.ms/MOC "Microsoft Official Curriculum ")
 
 :earth_americas: [Azure Architecture Center](https://www.aka.ms/architecture "Azure Architecture Center")
-
-:earth_americas: [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
 
 :earth_americas: [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/)
 
