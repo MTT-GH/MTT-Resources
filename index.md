@@ -56,8 +56,7 @@ On the **General Resources** tab you will find the following information:
 
 :earth_americas: [Renew your Microsoft Certification](https://learn.microsoft.com/en-us/certifications/renew-your-microsoft-certification)
 
-:arrow_forward: [Renewal Process video](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
-[![Watch the video](assets/images/renew-cert.png)](https://www.youtube.com/watch?v=ttuhmFHOTU8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7ydip-GWVw?si=s6SmjujOO0ePPXqL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :earth_americas: [Take the exam at home](https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/)
 
