@@ -24,8 +24,16 @@ On the **General Resources** tab you will find the following information:
 ## Microsoft Learn
 :earth_americas:[Microsoft Learn](https://learn.microsoft.com/ "Microsoft Learn")
 
+:new: [Microsoft Credential - Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+  
+:new: [Microsoft Applied Skills](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
+
+:earth_americas:[Microsoft Credential - Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
+
 :warning: Associate work/personal accounts
 ![associate accounts](assets/images/learn-accounts.png)
+
+
 
 
 ## Exam Preparation & Renewal Material
