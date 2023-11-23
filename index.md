@@ -21,14 +21,17 @@ On the **General Resources** tab you will find the following information:
 - [Exam Preparation & Renewal Material](#exam-preparation--renewal-material)
 - [General Resources](#general-resources)
 
-## Microsoft Learn
+## Microsoft Learn and Credentials
 :earth_americas:[Microsoft Learn](https://learn.microsoft.com/ "Microsoft Learn")
+
+:earth_americas: [Microsoft Credentials ](https://www.microsoft.com/certification "Microsoft Certification Overview ")
+
+:earth_americas:[Microsoft Credential - Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
 
 :new: [Microsoft Credential - Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CTuSuXW5uVs?si=-VFdrwWmMs1ZDpxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-:earth_americas:[Microsoft Credential - Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
 
 :warning: Associate work/personal accounts
 ![associate accounts](assets/images/learn-accounts.png)
@@ -40,11 +43,14 @@ On the **General Resources** tab you will find the following information:
 
 :mag: Videos with tips, tricks, and strategies for preparing for a Microsoft Certification exam: [Exam Readiness Zone](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/)
 
+:hourglass: [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications) (Also found in the exam page, next to scheduling)
+
+:interrobang: Exam Duration / Breaks / Microsoft Learn Access / Question Types [Microsoft Exam Question Types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
+
 :earth_americas: Exam retake policy : [Retake policy](https://learn.microsoft.com/en-us/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy) 
 
-:earth_americas: Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
+:earth_americas: Learning Path for all exams:  [Learning Journey recommendation](https://aka.ms/AzureTrainCertDeck)
 
-:interrobang: What is the duration of the exam? What kind of questions can I get? [Microsoft Exam Question Types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
 
 :computer: How does the exam enviroment/tool look like? [Microsoft Exam Environment Demo](http://aka.ms/examdemo)
 
@@ -58,8 +64,6 @@ On the **General Resources** tab you will find the following information:
 :star: [Celebrate your Microsoft Skills](https://aka.ms/CelebrateYourMicrosoftSkills)
 
 :earth_americas: [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
-
-:earth_americas: [Microsoft Certification Overview ](https://www.microsoft.com/certification "Microsoft Certification Overview ")
 
 ## General Resources
 
