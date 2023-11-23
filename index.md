@@ -26,7 +26,7 @@ On the **General Resources** tab you will find the following information:
 
 :new: [Microsoft Credential - Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
   
-:new: [Microsoft Applied Skills](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTuSuXW5uVs?si=-VFdrwWmMs1ZDpxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :earth_americas:[Microsoft Credential - Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification)
 
