@@ -47,7 +47,7 @@ On the **General Resources** tab you will find the following information:
 
 :hourglass: [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications) (Also found in the exam page, next to scheduling)
 
-:interrobang: Exam Duration / Breaks / Microsoft Learn Access / Question Types [Microsoft Exam Question Types]([https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience))
+:interrobang: Exam Duration / Breaks / Microsoft Learn Access / Question Types [Microsoft Exam Question Types](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience))
 
 :earth_americas: Exam retake policy : [Retake policy](https://learn.microsoft.com/en-us/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy) 
 
